@@ -1,7 +1,7 @@
 # 📱 Mobile Programming – Projects & Practice
 
 Welcome to my Mobile Programming repository!  
-This repo includes all the projects, sample apps, and practice code I’m working on as part of the **Mobile Programming1** course taught by **Ms. Mona Moradi**.
+This repo includes all the projects, sample apps, and practice code I’m working on as part of the **Mobile Programming1** course.
 
 Here you’ll find various experiments with building mobile apps — from basic UI layouts to more dynamic features using modern frameworks and native tools.
 
